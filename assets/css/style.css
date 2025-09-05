@@ -1,6 +1,3 @@
-p {
-    color: green;
-}
 span {
     color: yellow;
 }
@@ -16,4 +13,10 @@ td {
 .background-yellow {
     background-color: rgba(21, 113, 136, 0.68);
     font-size: 2em;
+}
+.background-blue {
+    background-color: blue;
+    font-size: 2em;
+.red {
+    color: red;
 }
