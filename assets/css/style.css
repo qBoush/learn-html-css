@@ -1,0 +1,19 @@
+p {
+    color: green;
+}
+span {
+    color: yellow;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+td {
+    width: 50px;
+}
+.background-yellow {
+    background-color: rgba(21, 113, 136, 0.68);
+    font-size: 2em;
+}
